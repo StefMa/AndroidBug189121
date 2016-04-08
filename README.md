@@ -1,3 +1,8 @@
+# DEPRECATED
+
+This bug was resolved in [support-v4 lib version 23.3.0](http://developer.android.com/tools/support-library/index.html#revisions) from April 2016.
+The [master](https://github.com/StefMa/AndroidBug189121/tree/master) branch contains the working example. The [defect](https://github.com/StefMa/AndroidBug189121/tree/master) branch the defect example :)
+
 # Android Bug 189121 example
 
 This is an example App for [Android Bug 189121](https://code.google.com/p/android/issues/detail?id=189121).
